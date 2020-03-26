@@ -19,7 +19,7 @@ TO RUN:
   
   $ make
   
-  $./ll
+  $ ./ll
   
 After running:
   
